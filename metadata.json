@@ -1,0 +1,6 @@
+{
+  "name": "Code Animator AI",
+  "description": "An AI-powered tool that generates visual animations to help explain programming concepts, algorithms, and data structures. Enter a topic, and watch the explanation come to life.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
