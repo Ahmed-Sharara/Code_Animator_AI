@@ -12,8 +12,8 @@ Breaks down topics into logical segments: problem context, algorithm workflow, c
 
 2. Dynamic Animations:
 
-Visualizes algorithms in action (e.g., sorting arrays with color-coded swaps, traversing graphs with moving nodes).
-Syncs animations with narrated explanations to clarify each step.
+. Visualizes algorithms in action (e.g., sorting arrays with color-coded swaps, traversing graphs with moving nodes).
+. Syncs animations with narrated explanations to clarify each step.
 
 3. Adaptive Difficulty:
 
