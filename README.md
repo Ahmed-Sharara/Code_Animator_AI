@@ -1,6 +1,6 @@
 # Project Description: Code_Animator_AI
 
-Overview:
+## Overview:
 Code_Animator_AI is an AI-powered platform that transforms complex programming algorithms and computer science topics into dynamic, animated presentations. By simply inputting a topic (e.g., "Dijkstra's algorithm," "neural networks," or "quicksort"), the system generates an engaging, step-by-step visual explanation complete with animations, pseudocode highlights, and real-time simulations. Designed for educators, students, and developers, it turns abstract concepts into intuitive visual stories.
 
 ## Key Features:
